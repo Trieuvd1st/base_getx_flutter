@@ -1,0 +1,3 @@
+class IconUtils {
+  /// Common Icon
+}
